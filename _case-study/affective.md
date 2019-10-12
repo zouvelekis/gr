@@ -15,4 +15,4 @@ gallery:
 
 {% include_relative cs-affective.md %}
 
-{% include slides.html caption="Εναλλακτικοί ορισμοί της ποιότητας της διάδρασης" %}
+{% include slides.html caption="Εναλλακτικοί ορισμοί της ποιότητας της διάδρασης" %} 
